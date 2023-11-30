@@ -1,0 +1,310 @@
+body{
+  padding: 0;
+  margin:0;
+  border:0;
+  font-family: sans-serif;
+  background-color: #07162D;
+  min-height: 100vh;
+}
+.tophead1{
+  width: 100%;
+  height:28px;
+  background-color: #252525;
+  margin: 0;
+}
+.navtab{
+  background-color: #393939;
+  margin: 0;
+  text-align: right;
+  height: 80px;
+}
+.navtab > li{
+  display: inline;
+  margin-right: 20px;
+}
+.navtab > li > a{
+  display: inline-block;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #FFE1C3;
+  font-weight: bold;
+}
+
+
+.navtab > li > img{
+width: 60px;
+border: 0;
+padding: 0;
+float: left;
+margin-top: 10px;
+}
+
+.navtab li a:hover{
+  background-color: #212121;
+  color: #5271DF;
+  font-weight: bolder;
+height: 10px;
+text-decoration: underline;
+}
+
+.ENIAC{
+  color: #FFE1C3;
+}
+
+.link{
+  color: #5271DF;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+.bigbanner1{
+  width: 100%;
+  height: 100px;
+  background-image: url("Cool Hacker Banner.png");
+  padding-top: 20px;
+  background-size: cover;
+  padding-bottom: 20px;
+  height: 200px;
+}
+
+.bigbanner2{
+  width: 100%;
+  height: 100px;
+  background-image: url("History of Computers Banner.png");
+  padding-top: 20px;
+  background-size: cover;
+  padding-bottom: 20px;
+  height: 200px;
+}
+
+.bigbanner3{
+  width: 100%;
+  height: 100px;
+  background-image: url("Gadgets Banner.png");
+  padding-top: 20px;
+  background-size: cover;
+  padding-bottom: 20px;
+  height: 200px;
+}
+
+.bigbanner4{
+  width: 100%;
+  height: 100px;
+  background-image: url("News Banner.png");
+  padding-top: 20px;
+  background-size: cover;
+  padding-bottom: 20px;
+  height: 200px;
+}
+
+.Introduction > p{
+  font-family: sans-serif;
+  color: #FFE1C3;
+  font-size: 18px;
+  padding-left: : 30px;
+  padding-right: 30px;
+  padding top: : 20px;
+  text-align: center;
+}
+
+.Introduction > h2{
+  color: #FFE1C3;
+  font-size: 22px;
+  text-align: center;
+  position: relative;
+  left: -20px;
+  font-weight: bolder;
+}
+
+.Introduction{
+padding-top: 0;
+padding-left: 60px;
+}
+
+.biglogo{
+text-align: right;
+float: right;
+width: 230px;
+padding-right: 60px;
+padding-top: 5px;
+}
+
+.CompHisIntro > h1{
+  color: #FFE1C3;
+  font-size: 22px;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.InformationCompHis{
+  border: 3px solid #FFE1C3;
+  margin: 20px;
+  width: 700px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.InformationCompHis > h2{
+  color: #FFE1C3;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+.InformationCompHis > p{
+color: #FFE1C3;
+text-align: center;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+.InformationCompHis > img{
+  width: 50%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.Microsoft{
+  background-color: #FFFFFF;
+}
+
+.Preview{
+  text-align: center;
+  padding-top: 60px;
+}
+
+.Citations_Link{
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.Citations{
+  text-align: center;
+  width: 80%;
+  padding-left: 130px;
+  padding-right: 110px;
+}
+
+.Citations > h2{
+  color: #FFE1C3;
+  text-align: center;
+}
+
+.Citations > p{
+  color: #FFE1C3;
+  text-align: center
+}
+
+.Header{
+  padding-top: 30px;
+  color: #FFE1C3;
+  text-align: center;
+}
+
+.ProductPicture{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.ProductPicture > img{
+  width: 60%;
+}
+
+.ProductInfo{
+  display: block;
+  padding-top: 30px;
+  color: #FFE1C3;
+  width: 90%;
+  padding-left: 60px;
+}
+
+.MyStars{
+  padding-left: 50px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.MyStars > h2{
+  color: #FFE1C3;
+  text-align: center;
+  padding-bottom: 0px;
+}
+
+.MyStars > span{
+  position: relative;
+  top: -10px;
+}
+
+.OnlineStars{
+  padding-right: 50px;
+  padding-bottom: 100px;
+  text-align: center;
+  position: relative;
+}
+
+.OnlineStars > h2{
+  color: #FFE1C3;
+  text-align: center;
+  padding-bottom: 0px;
+}
+
+.OnlineStars > span{
+  position: relative;
+  top: -10px;
+}
+
+.DeckPreview{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.DeckPreview > h2{
+  color: #FFE1C3;
+}
+
+.DeckPreview img{
+  width: 70%;
+  padding: 5px;
+}
+
+.SwitchPreview{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.SwitchPreview > h2 > a{
+  color: #FFE1C3;
+}
+
+.SwitchPreview > img{
+  width: 70%;
+  padding: 5px;
+}
+
+.News{
+  position: relative;
+  top: 20px;
+  text-align: center;
+  color: #FFE1C3;
+}
+
+.NewsLeft{
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.NewsRight{
+  padding-top: 10px;
+  text-align: center;
+  position: relative;
+  right: -200px;
+}
